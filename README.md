@@ -1,0 +1,3 @@
+This repo contains code written as part of the Numerical Analysis courses I'm taking ([1](https://www.openu.ac.il/courses/20462.htm) and [2](https://www.openu.ac.il/courses/20900.htm)). Notably, both courses use the book [Numerical Analysis, 10th ed.‏](https://www.amazon.com/Numerical-Analysis-Richard-L-Burden/dp/1305253663).
+
+More generally, this repo is to be a playground of numerical analysis for me, where I can both implemented and use tools that are presented in the courses, or similar to them.
